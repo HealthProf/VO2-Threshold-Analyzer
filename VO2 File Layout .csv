@@ -1,0 +1,4 @@
+﻿TIME ,VO2   ,VO2/kg  ,METS ,VCO2  ,VE     ,RER  ,RR  ,Vt    ,FEO2  ,FECO2 ,HR  ,LOAD ,BIKE ,AcKcal ,%CHO ,CHO,%FAT ,FAT
+     ,STPD  ,STPD    ,     ,STPD  ,BTPS   ,     ,    ,BTPS  ,      ,      ,    ,PROG ,MEAS ,       ,     ,       ,     ,       
+min  ,L/min ,ml/kg/m ,     ,L/min ,L/min  ,     ,BPM ,L     ,%     ,%     ,bpm ,W    ,W    ,Kcal   ,%    ,g/min,%    ,g/min
+----------,,,,,,,,,,,,,,,,,,
