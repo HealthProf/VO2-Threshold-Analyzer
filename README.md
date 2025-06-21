@@ -219,7 +219,7 @@ This project is licensed under the MIT License
 ## Version History
 
 - **v1.0.0**: Initial release with core threshold detection
-- **Future**: Planned enhancements for additional threshold methods and export formats
+- **Future**: Planned enhancements for additional threshold methods and export formats. If you have ideas for future versions please add them in the discussion area!
 
 ---
 
